@@ -40,7 +40,7 @@ const Footer = () => {
               className=" hover:text-brightColor transition-all cursor-pointer"
               href="https://github.com/piyush130504-wq"
             >
-              Ravi Pandey
+              piyush priyadarshi
             </a>
             <a
               className=" hover:text-brightColor transition-all cursor-pointer"
