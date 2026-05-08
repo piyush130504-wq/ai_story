@@ -38,7 +38,7 @@ const Footer = () => {
             </a>
             <a
               className=" hover:text-brightColor transition-all cursor-pointer"
-              href="https://github.com/mrravipandee"
+              href="https://github.com/piyush130504-wq"
             >
               Ravi Pandey
             </a>
@@ -57,17 +57,16 @@ const Footer = () => {
               className=" hover:text-brightColor transition-all cursor-pointer"
               href="/"
             >
-              imravipanday@gmail.com
+              piyush130504@gmail.com.com
             </a>
             <a
               className=" hover:text-brightColor transition-all cursor-pointer"
               href="/"
             >
-              +91 70585 48204
+              +91 8521802612
             </a>
             <a
               className=" hover:text-brightColor transition-all cursor-pointer"
-              href="https://mrravipandee.bio.link/"
             >
               Social media
             </a>
