@@ -25,7 +25,7 @@ const Home = () => {
           <a href="/ai-story-generator">
             <Button title="CREATE" />
           </a>
-          <PlayButton title="PLAY DEMO" onClick={handlePlayDemo} />
+          <PlayButton title="" onClick={handlePlayDemo} />
         </div>
       </div>
 
