@@ -7,7 +7,7 @@ const Home = () => {
   
   const handlePlayDemo = () => {
     const iframe = iframeRef.current;
-    const src = "https://www.youtube.com/embed/CTRsnBVgGgk?autoplay=1";
+    const src = "";
     iframe.src = src;
   };
 
